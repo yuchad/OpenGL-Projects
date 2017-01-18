@@ -1,0 +1,1 @@
+Collection of projects worked on in Computer Graphics using OpenGL.
